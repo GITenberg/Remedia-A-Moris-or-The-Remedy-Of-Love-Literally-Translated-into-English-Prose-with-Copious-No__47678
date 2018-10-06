@@ -31,6 +31,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Remedia A Moris or, The Remedy Of Love
 
   Literally Translated into English Prose, with Copious Notes'
